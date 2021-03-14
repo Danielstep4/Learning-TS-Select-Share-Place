@@ -1,0 +1,26 @@
+{
+  "name": "practice-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielstep4/Learning-TS-Select-Share-Place.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielstep4/Learning-TS-Select-Share-Place/issues"
+  },
+  "homepage": "https://github.com/Danielstep4/Learning-TS-Select-Share-Place#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.21.1"
+  }
+}
